@@ -1,0 +1,8 @@
+{
+  "name": "pnppd-web",
+  "version": "1.0.0",
+  "description": "Webpage of PNPPD",
+  "private":true,
+  "license": "CC0-1.0",
+  "author": "PNPPD"
+}
